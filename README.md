@@ -12,7 +12,7 @@ Look at the UML diagram to see how some of the different features will likely in
 
 
 
-Possible future additions: 
+Possible future additions: (if time/ I figure out how)
 - Stock market/ way to gamble cookies
 - upgrades specific to each building
 - customizable UI elements
