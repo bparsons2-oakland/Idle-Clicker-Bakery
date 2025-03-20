@@ -15,3 +15,4 @@ Look at the UML diagram to see how some of the different features will likely in
 Possible future additions: 
 - Stock market/ way to gamble cookies
 - upgrades specific to each building
+- customizable UI elements
