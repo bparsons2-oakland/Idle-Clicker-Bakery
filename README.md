@@ -9,3 +9,9 @@ Currently the plans are to have a clickable cookie, a decent looking user interf
 The game will show your passive cookies per second in real time, as well as your current total of cookies. It will also show you how many of each building you have, and the level of each upgrade you have gotten. 
 
 Look at the UML diagram to see how some of the different features will likely interact. 
+
+
+
+Possible future additions: 
+- Stock market/ way to gamble cookies
+- upgrades specific to each building
