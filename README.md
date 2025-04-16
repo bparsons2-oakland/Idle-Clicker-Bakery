@@ -16,3 +16,7 @@ Possible future additions: (if time/ I figure out how)
 - Stock market/ way to gamble cookies
 - upgrades specific to each building
 - customizable UI elements
+
+  HOW TO LAUNCH ("*" means it may not be necessary)
+  -Need most recent Java version.
+  
