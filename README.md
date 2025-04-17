@@ -18,4 +18,4 @@ This is a type of idle game, where you can run it in the background of whatever 
 
 
 
-  "0") Secondary bonus speedrun edition is also included and can be launched (dev version at 999,999 cookies)
+  - Secondary bonus speedrun edition is also included and can be launched (dev version at 999,999 cookies)
