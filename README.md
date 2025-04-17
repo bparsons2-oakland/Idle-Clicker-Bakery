@@ -10,7 +10,7 @@ This is a type of idle game, where you can run it in the background of whatever 
   
   1) Need most recent Java version.
   
-  2) Launch the application
+  2) Launch the application by opening the .jar file
 
   3) Click the cookie to get started, buy upgrades however you want until you reach 1,000,000!
 
