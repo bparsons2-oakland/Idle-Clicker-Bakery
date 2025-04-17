@@ -14,7 +14,7 @@ This is a type of idle game, where you can run it in the background of whatever 
 
   3) Click the cookie to get started, buy upgrades however you want until you reach 1,000,000!
 
-  4) If you would like to quit, simply exit out of window
+  4) If you would like to quit, simply exit out of the window
 
 
 
